@@ -21,7 +21,7 @@ function Banner() {
                         <h2>Monatik</h2>
 
                     </div>
-                    <p><i><FaHeadphones/>12,114,5343<span> listener</span></i> </p>
+                    <p><i><FaHeadphones/>12,114,5340<span> listener</span></i> </p>
                 </div>
                 <div className='right'>
                     <a href='#'>Play</a>
