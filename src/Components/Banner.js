@@ -10,7 +10,7 @@ function Banner() {
         <img src={Monatic} alt='img-monatic' className='bannerImg' />
         <div className='content'>
             <div className='breadCrump'>
-                <p>Home <span>/Popular Artist</span></p>
+                <p>Home <span>/Populars Artist</span></p>
                 <i>
                     <AiOutlineMenu/>
                 </i>
